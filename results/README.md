@@ -16,3 +16,14 @@
 - [임신·자궁 생리 엑셀](pregnancy_uterus/pregnancy_uterus.xlsx) — 파일 화면에서 **Download raw file**을 선택하세요.
 
 기존 목록에서 직접 관련 후보 188편, 확장 주제 159편을 구분했습니다. 핵심 19편 중 16편은 초록 검토, 3편은 제목만 확인한 후보입니다. 원본 자료에서 철회된 논문으로 표시된 PMID 36909311은 추천에서 제외했습니다. IF 및 전수 원문 검증은 미완료입니다.
+
+## 전체 문헌의 장기·계통별 스크리닝
+
+- [장기별 HIF-1/HIF-2 기능 요약](organs/organ_functions.md)
+- [장기별 논문 목록](organs/organ_index.md)
+- [상반 방향·비영향 결과 비교](organs/context_and_negative_results.md)
+- [통합 스크리닝 엑셀](organs/organ_screening.xlsx)
+- [장기별 시트 엑셀](organs/organ_by_organ.xlsx)
+- [원본 파일·전체 CSV 포함 ZIP](organs/organ_screening_package.zip)
+
+10,112편 전부 보존, 48개 장기·계통과 2개 미상 범주에 16,708건 다중 배정. 대표 118개 PMID의 기능 근거를 연결했고 전수 원문 합의평가는 아닙니다. 철회·정정·프리프린트·기간 확인 기록도 데이터에서 삭제하지 않았습니다.

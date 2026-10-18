@@ -1,0 +1,34 @@
+{
+  "source_unique_PMIDs": 10112,
+  "abstract_available": 5170,
+  "abstract_unavailable": 4942,
+  "organ_system_categories": 48,
+  "unassigned_categories": 2,
+  "categories_total": 50,
+  "multi_assignments": 16708,
+  "unique_PMIDs_in_assignments": 10112,
+  "unknown_PMIDs": 1538,
+  "functional_summary_rows": 100,
+  "functional_cited_unique_PMIDs": 118,
+  "functional_cited_with_abstract": 117,
+  "functional_cited_title_only": 1,
+  "source_window": "2021-10-16 through 2026-10-16 (original dataset; not refreshed to 2026-10-18)",
+  "live_PubMed_refresh": false,
+  "JIF_verified": false,
+  "classification_type": "multi-label title/abstract keyword screening; main organ/causality not guaranteed",
+  "functional_review_type": "representative abstract-based synthesis; not a full systematic consensus assessment",
+  "validation": "passed: every original field and PMID preserved; assignment pairs unique; citations/status/date checked; workbook counts and Markdown destinations verified",
+  "original_csv_sha256": "c48b82617edab7fbf1a81c2b1134dd37b48de5cb29f8a3fef84071bed6093066",
+  "original_uploaded_files_in_package": [
+    {
+      "archive_path": "source/pubmed_export_5250.nbib",
+      "bytes": 30479147,
+      "sha256": "554256c65a45d89fad474369736e0358cbceb7705245961167fe6739c0e8c983"
+    },
+    {
+      "archive_path": "source/pubmed_summary_10000.txt",
+      "bytes": 3223725,
+      "sha256": "1c400ca7f5380ec607f448aae3c49281e8300c59b2b21ebeac3a445b1cf69271"
+    }
+  ]
+}
