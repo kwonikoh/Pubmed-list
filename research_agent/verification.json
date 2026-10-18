@@ -1,0 +1,20 @@
+{
+  "version": "0.1",
+  "date": "2026-10-18",
+  "unit_and_http_tests_passed": 15,
+  "chromium_browser_flow": "passed: sample, upload, team demo, ZIP and JSON downloads, stale-result reset",
+  "external_requests_during_browser_demo": 0,
+  "javascript_errors": 0,
+  "full_dataset_check": {
+    "input_records": 10112,
+    "selected_demo": 3,
+    "preserved_unrun": 10109,
+    "real_API_calls": 0,
+    "fabricated_real_paper_claims": 0
+  },
+  "NBIB_format_records_verified": 5250,
+  "provider_request_schema_tests": "four providers mocked; not live connectivity validation",
+  "live_model_API_validation": false,
+  "windows_launcher_execution": "not tested on Windows; server and browser tested on Linux",
+  "runtime_dependencies": "Python 3.11+ standard library; no pip packages required"
+}
