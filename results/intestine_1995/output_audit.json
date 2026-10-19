@@ -1,0 +1,30 @@
+{
+  "source_to_csv_PMID_multiset": "passed: 2525/2525",
+  "csv_to_excel_PMID_multiset": "passed: 2525/2525",
+  "topic_sheet_counts": "passed: all 16 topic sheets",
+  "topic_year_priority_sort": "passed: all 16 topic sheets",
+  "IF_not_fabricated": "passed: all numeric IF/year cells empty",
+  "source_sha256": "1755255db8502a345e5090e7dab4eb623d219e703e746f98711d2a05c6c51726",
+  "files": {
+    "HIF_intestine_master.csv": {
+      "bytes": 8236944,
+      "sha256": "4bbf80c0fbd572c0d7d2c4a1c05444639e77285f19493bdc989ae704485a43c1"
+    },
+    "HIF_intestine_1995_classified.xlsx": {
+      "bytes": 6605964,
+      "sha256": "cf76923bba973075c161d2244cd713e421ca4d0c784c51bda94401c8d535fe20"
+    },
+    "source.nbib": {
+      "bytes": 13067586,
+      "sha256": "1755255db8502a345e5090e7dab4eb623d219e703e746f98711d2a05c6c51726"
+    },
+    "journal_IF_template.csv": {
+      "bytes": 48851,
+      "sha256": "773c776a9232b222cae0d2a8b3264a8bd7b2479ee69591f8ace3a3b1be47e8cf"
+    },
+    "HIF_intestine_browser.html": {
+      "bytes": 15724291,
+      "sha256": "b86cf593c38e97669525e1bc20a877a3dc5dce8ce26273ded7ba5a58074056b4"
+    }
+  }
+}

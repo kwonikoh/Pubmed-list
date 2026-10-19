@@ -1,0 +1,439 @@
+{
+  "request_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=42893454,42425376,41911375&retmode=json",
+  "checked_date": "2026-10-19",
+  "http_status": 200,
+  "response": {
+    "header": {
+      "type": "esummary",
+      "version": "0.3"
+    },
+    "result": {
+      "uids": [
+        "42893454",
+        "42425376",
+        "41911375"
+      ],
+      "42893454": {
+        "uid": "42893454",
+        "pubdate": "2026 Oct 18",
+        "epubdate": "2026 Oct 18",
+        "source": "Adv Sci (Weinh)",
+        "authors": [
+          {
+            "name": "Xu S",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Han Q",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Wang F",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Zhang Y",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Feng H",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Liu K",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Luo FX",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Yuan F",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Zhao X",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Yu X",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Huang H",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Zou Q",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Zhao R",
+            "authtype": "Author",
+            "clusterid": ""
+          }
+        ],
+        "lastauthor": "Zhao R",
+        "title": "HECTD1 Directs HIF-1α to Facilitate Intestinal Inflammation and Carcinogenesis via Promoting Th17 Differentiation and Glycolysis.",
+        "sorttitle": "hectd1 directs hif 1 to facilitate intestinal inflammation and carcinogenesis via promoting th17 differentiation and glycolysis",
+        "volume": "",
+        "issue": "",
+        "pages": "e78339",
+        "lang": [
+          "eng"
+        ],
+        "nlmuniqueid": "101664569",
+        "issn": "",
+        "essn": "2198-3844",
+        "pubtype": [
+          "Journal Article"
+        ],
+        "recordstatus": "PubMed - as supplied by publisher",
+        "pubstatus": "10",
+        "articleids": [
+          {
+            "idtype": "pubmed",
+            "idtypen": 1,
+            "value": "42893454"
+          },
+          {
+            "idtype": "doi",
+            "idtypen": 3,
+            "value": "10.1002/advs.78339"
+          }
+        ],
+        "history": [
+          {
+            "pubstatus": "revised",
+            "date": "2026/10/05 00:00"
+          },
+          {
+            "pubstatus": "received",
+            "date": "2026/06/22 00:00"
+          },
+          {
+            "pubstatus": "accepted",
+            "date": "2026/10/09 00:00"
+          },
+          {
+            "pubstatus": "medline",
+            "date": "2026/10/18 11:29"
+          },
+          {
+            "pubstatus": "pubmed",
+            "date": "2026/10/18 11:29"
+          },
+          {
+            "pubstatus": "entrez",
+            "date": "2026/10/18 10:52"
+          }
+        ],
+        "references": [],
+        "attributes": [
+          "Has Abstract"
+        ],
+        "pmcrefcount": "",
+        "fulljournalname": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+        "elocationid": "doi: 10.1002/advs.78339",
+        "doctype": "citation",
+        "srccontriblist": [],
+        "booktitle": "",
+        "medium": "",
+        "edition": "",
+        "publisherlocation": "",
+        "publishername": "",
+        "srcdate": "",
+        "reportnumber": "",
+        "availablefromurl": "",
+        "locationlabel": "",
+        "doccontriblist": [],
+        "docdate": "",
+        "bookname": "",
+        "chapter": "",
+        "sortpubdate": "2026/10/18 00:00",
+        "sortfirstauthor": "Xu S",
+        "vernaculartitle": ""
+      },
+      "42425376": {
+        "uid": "42425376",
+        "pubdate": "2027 Jan 10",
+        "epubdate": "2026 Jul 9",
+        "source": "J Ethnopharmacol",
+        "authors": [
+          {
+            "name": "Guo X",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Huang BN",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Liu YH",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Wang YQ",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Che HY",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Liu XK",
+            "authtype": "Author",
+            "clusterid": ""
+          }
+        ],
+        "lastauthor": "Liu XK",
+        "title": "Orientin alleviates ulcerative colitis by regulating ferroptosis and glycolysis via the ROS/HIF-1α/GLUT1 signaling axis.",
+        "sorttitle": "orientin alleviates ulcerative colitis by regulating ferroptosis and glycolysis via the ros hif 1 glut1 signaling axis",
+        "volume": "372",
+        "issue": "",
+        "pages": "122161",
+        "lang": [
+          "eng"
+        ],
+        "nlmuniqueid": "7903310",
+        "issn": "0378-8741",
+        "essn": "1872-7573",
+        "pubtype": [
+          "Journal Article"
+        ],
+        "recordstatus": "PubMed - indexed for MEDLINE",
+        "pubstatus": "256",
+        "articleids": [
+          {
+            "idtype": "pubmed",
+            "idtypen": 1,
+            "value": "42425376"
+          },
+          {
+            "idtype": "doi",
+            "idtypen": 3,
+            "value": "10.1016/j.jep.2026.122161"
+          },
+          {
+            "idtype": "pii",
+            "idtypen": 4,
+            "value": "S0378-8741(26)01015-9"
+          }
+        ],
+        "history": [
+          {
+            "pubstatus": "received",
+            "date": "2026/03/16 00:00"
+          },
+          {
+            "pubstatus": "revised",
+            "date": "2026/06/27 00:00"
+          },
+          {
+            "pubstatus": "accepted",
+            "date": "2026/07/04 00:00"
+          },
+          {
+            "pubstatus": "medline",
+            "date": "2026/08/11 00:35"
+          },
+          {
+            "pubstatus": "pubmed",
+            "date": "2026/07/10 00:35"
+          },
+          {
+            "pubstatus": "entrez",
+            "date": "2026/07/09 19:13"
+          }
+        ],
+        "references": [],
+        "attributes": [
+          "Has Abstract"
+        ],
+        "pmcrefcount": "",
+        "fulljournalname": "Journal of ethnopharmacology",
+        "elocationid": "doi: 10.1016/j.jep.2026.122161",
+        "doctype": "citation",
+        "srccontriblist": [],
+        "booktitle": "",
+        "medium": "",
+        "edition": "",
+        "publisherlocation": "",
+        "publishername": "",
+        "srcdate": "",
+        "reportnumber": "",
+        "availablefromurl": "",
+        "locationlabel": "",
+        "doccontriblist": [],
+        "docdate": "",
+        "bookname": "",
+        "chapter": "",
+        "sortpubdate": "2027/01/10 00:00",
+        "sortfirstauthor": "Guo X",
+        "vernaculartitle": ""
+      },
+      "41911375": {
+        "uid": "41911375",
+        "pubdate": "1993",
+        "epubdate": "",
+        "source": "",
+        "authors": [
+          {
+            "name": "Adam MP",
+            "authtype": "Editor",
+            "clusterid": ""
+          },
+          {
+            "name": "Bick S",
+            "authtype": "Editor",
+            "clusterid": ""
+          },
+          {
+            "name": "Mirzaa GM",
+            "authtype": "Editor",
+            "clusterid": ""
+          },
+          {
+            "name": "Wallace SE",
+            "authtype": "Editor",
+            "clusterid": ""
+          },
+          {
+            "name": "Amemiya A",
+            "authtype": "Editor",
+            "clusterid": ""
+          },
+          {
+            "name": "Alkaissi H",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Pacak K",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Zhuang Z",
+            "authtype": "Author",
+            "clusterid": ""
+          }
+        ],
+        "lastauthor": "Zhuang Z",
+        "title": "Mosaic EPAS1 Gain-of-Function Spectrum.",
+        "sorttitle": "mosaic epas1 gain of function spectrum",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "lang": [
+          "eng"
+        ],
+        "nlmuniqueid": "",
+        "issn": "",
+        "essn": "",
+        "pubtype": [
+          "Review"
+        ],
+        "recordstatus": "PubMed",
+        "pubstatus": "ppublish",
+        "articleids": [
+          {
+            "idtype": "bookaccession",
+            "idtypen": 8,
+            "value": "NBK621478"
+          },
+          {
+            "idtype": "pubmed",
+            "idtypen": 1,
+            "value": "41911375"
+          }
+        ],
+        "history": [],
+        "references": [],
+        "attributes": [
+          "Has Abstract"
+        ],
+        "pmcrefcount": "",
+        "fulljournalname": "",
+        "elocationid": "",
+        "doctype": "chapter",
+        "srccontriblist": [
+          {
+            "name": "Adam MP",
+            "authtype": "Editor",
+            "clusterid": ""
+          },
+          {
+            "name": "Bick S",
+            "authtype": "Editor",
+            "clusterid": ""
+          },
+          {
+            "name": "Mirzaa GM",
+            "authtype": "Editor",
+            "clusterid": ""
+          },
+          {
+            "name": "Wallace SE",
+            "authtype": "Editor",
+            "clusterid": ""
+          },
+          {
+            "name": "Amemiya A",
+            "authtype": "Editor",
+            "clusterid": ""
+          }
+        ],
+        "booktitle": "GeneReviews(®)",
+        "medium": "Internet",
+        "edition": "",
+        "publisherlocation": "Seattle (WA)",
+        "publishername": "University of Washington, Seattle",
+        "srcdate": "1993-2026",
+        "reportnumber": "",
+        "availablefromurl": "http://www.ncbi.nlm.nih.gov/books/NBK621478/",
+        "locationlabel": "",
+        "doccontriblist": [
+          {
+            "name": "Alkaissi H",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Pacak K",
+            "authtype": "Author",
+            "clusterid": ""
+          },
+          {
+            "name": "Zhuang Z",
+            "authtype": "Author",
+            "clusterid": ""
+          }
+        ],
+        "docdate": "2026 Mar 26",
+        "bookname": "gene",
+        "chapter": "epas1-gofs",
+        "sortpubdate": "2026/03/26 00:00",
+        "sortfirstauthor": "Alkaissi H",
+        "vernaculartitle": ""
+      }
+    }
+  }
+}

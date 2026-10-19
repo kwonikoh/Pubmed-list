@@ -1,0 +1,32 @@
+[
+  {
+    "journal": "nature",
+    "url": "https://www.nature.com/nature/journal-impact",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "journal": "ncomms",
+    "url": "https://www.nature.com/ncomms/journal-impact",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "journal": "cddis",
+    "url": "https://www.nature.com/cddis/journal-impact",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "journal": "onc",
+    "url": "https://www.nature.com/onc/journal-impact",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "journal": "gut",
+    "url": "https://gut.bmj.com/pages/about",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "journal": "gastro",
+    "url": "https://www.gastrojournal.org/content/aims",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]
